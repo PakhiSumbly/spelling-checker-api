@@ -9,7 +9,6 @@ Dependencies to load on VSCode :-
 >pip install flask textblob
 >pip install requests
 
-Running the app :
-On two separate terminals :
+Running the app , on two separate terminals :
 >python app.py
 >python clients.py
